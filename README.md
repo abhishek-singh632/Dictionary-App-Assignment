@@ -31,6 +31,5 @@ The Dictionary App is a web application designed to provide users with quick and
 #4
 ![4](https://github.com/abhishek-singh632/Dictionary-App-Assignment/assets/118076036/b02bdc44-38ef-41d9-83e0-7369e63a6aba)
 
-5.Contributing
 # Conclusion
 The Dictionary App provides a seamless experience for users to quickly look up definitions of words. With its intuitive interface powered by React and integration with a reliable dictionary API, users can easily explore meanings and understand various contexts in which words are used. The app's responsive design ensures accessibility across different devices, making it a practical tool for students, professionals, and language enthusiasts alike.
