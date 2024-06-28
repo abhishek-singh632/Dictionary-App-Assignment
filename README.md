@@ -21,8 +21,6 @@ The Dictionary App is a web application designed to provide users with quick and
       npm install <br>
    4. # Start the application <br>
       npm start <br>
-2. Usage <br>
-3. API Usage <br>
 # 4.Screenshots
 #1.
 ![1](https://github.com/abhishek-singh632/Dictionary-App-Assignment/assets/118076036/b9d64ba8-249a-4033-be36-073cd09d54df)
