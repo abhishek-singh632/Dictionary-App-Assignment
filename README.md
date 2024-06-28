@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+## Dictionary App
+# Introduction
+The Dictionary App is a web application designed to provide users with quick and accurate definitions of words. Built using React and integrating with a dictionary API, this app allows users to enter a word and retrieve its definitions along with the part of speech.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Key Features
+ 1.Word Definitions: Retrieve detailed definitions for entered words.
+ 2.Part of Speech: Display the grammatical category of each definition.
+ 3.Error Handling: Notify users when a word is not found or when there is an issue with the API request.
+# Technologies Used
+1.Reactjs
+2.Axios for API requests
+3.Bootstrap for styling
+# Table of Contents
+1,Installation
+2.Usage
+3.API Usage
+4.Screenshots
+#1.
+![1](https://github.com/abhishek-singh632/Dictionary-App-Assignment/assets/118076036/b9d64ba8-249a-4033-be36-073cd09d54df)
+#2
+![2 (1)](https://github.com/abhishek-singh632/Dictionary-App-Assignment/assets/118076036/6ba3e82e-1616-484d-87ed-017c25f6228a)
+#3
+![2 (2)](https://github.com/abhishek-singh632/Dictionary-App-Assignment/assets/118076036/c218c906-c614-4f34-b843-40f3732a500b)
+#4
+![4](https://github.com/abhishek-singh632/Dictionary-App-Assignment/assets/118076036/b02bdc44-38ef-41d9-83e0-7369e63a6aba)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+5.Contributing
+# Conclusion
+The Dictionary App provides a seamless experience for users to quickly look up definitions of words. With its intuitive interface powered by React and integration with a reliable dictionary API, users can easily explore meanings and understand various contexts in which words are used. The app's responsive design ensures accessibility across different devices, making it a practical tool for students, professionals, and language enthusiasts alike.
