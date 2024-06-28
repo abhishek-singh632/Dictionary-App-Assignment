@@ -16,7 +16,7 @@ The Dictionary App is a web application designed to provide users with quick and
    1. # Clone the repository <br>
       git clone <repository_url>
    2. # Navigate into the project directory <br>
-     cd dictionary-app <br>
+      cd dictionary-app <br>
    3. # Install dependencies <br>
       npm install <br>
    4. # Start the application <br>
