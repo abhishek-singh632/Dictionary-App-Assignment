@@ -23,7 +23,7 @@ To install and run the Dictionary App locally:
       npm start
 2.Usage
 3.API Usage
-4.Screenshots
+# 4.Screenshots
 #1.
 ![1](https://github.com/abhishek-singh632/Dictionary-App-Assignment/assets/118076036/b9d64ba8-249a-4033-be36-073cd09d54df)
 #2
