@@ -11,7 +11,16 @@ The Dictionary App is a web application designed to provide users with quick and
 2.Axios for API requests
 3.Bootstrap for styling
 # Table of Contents
-1,Installation
+1.Installation
+To install and run the Dictionary App locally:
+    # Clone the repository
+      git clone <repository_url>
+    # Navigate into the project directory
+     cd dictionary-app
+    # Install dependencies
+      npm install
+    # Start the application
+      npm start
 2.Usage
 3.API Usage
 4.Screenshots
